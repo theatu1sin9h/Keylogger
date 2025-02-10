@@ -13,7 +13,7 @@ Installation
     Clone the repository:
 
     bash 
-git clone https://github.com/theatu1sin9h/Keylogger
+git clone https://github.com/theatu1sin9h/Keylogger.git
 
 
 Navigate to the project directory:
